@@ -52,8 +52,7 @@ use {
 Create a file 'codam-header.lua' in ~/.config/nvim/plugins/ with the following content:
 
 ```lua
-return
-{
+return {
   "f-ras/codam-header.nvim",
   cmd = { "Stdheader" },
   keys = { "<F1>" },
