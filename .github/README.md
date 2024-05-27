@@ -40,6 +40,7 @@ use {
   <summary>💤 Lazy.nvim</summary>
 
 ```lua
+return
 {
   "Diogo-ss/42-header.nvim",
   cmd = { "Stdheader" },
