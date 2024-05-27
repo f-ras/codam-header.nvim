@@ -8,8 +8,7 @@ M.opts = {
   user = "username",
   mail = "your@mail.com",
   asciiart = {
-
-    "       ::::::::          "
+    "       ::::::::          ",
     "     :+:    :+:          ",
     "    +:+                  ",
     "   +#+                   ",
