@@ -30,7 +30,7 @@ This extension provides the Codam header integration in Neovim. The original 42 
 
 ```lua
 use {
-  "Diogo-ss/42-header.nvim",
+  "f-ras/codam-header.nvim",
   cmd = { "Stdheader" },
   config = function()
     require "42header"setup {
@@ -51,7 +51,7 @@ use {
 
 ```lua
 {
-  "Diogo-ss/42-header.nvim",
+  "f-ras/codam-header.nvim",
   cmd = { "Stdheader" },
   keys = { "<F1>" },
   opts = {
