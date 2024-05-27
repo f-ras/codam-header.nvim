@@ -49,7 +49,10 @@ use {
 <details>
   <summary>💤 Lazy.nvim</summary>
 
+Create a file 'codam-header.lua' in ~/.config/nvim/plugins/ with the following content:
+
 ```lua
+return
 {
   "f-ras/codam-header.nvim",
   cmd = { "Stdheader" },
