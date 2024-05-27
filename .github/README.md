@@ -1,6 +1,6 @@
 <h1 align="center">Codam Header for Neovim</h1>
 
-This extension provides the Codam header integration in Neovim. The original 42 re-write is found at [42-header.vim](https://github.com/Diogo-ss/42-header.nvim).
+This extension provides the Codam header integration in Neovim. The original 42 re-write is found at [42-header.nvim](https://github.com/Diogo-ss/42-header.nvim).
 
 ```bash
 # ************************************************************************** #
