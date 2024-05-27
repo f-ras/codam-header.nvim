@@ -1,5 +1,5 @@
-local config = require "42header.config"
-local utils = require "42header.utils.header"
+local config = require "codamheader.config"
+local utils = require "codamheader.utils.header"
 
 local M = {}
 

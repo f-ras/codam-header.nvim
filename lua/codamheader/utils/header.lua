@@ -1,4 +1,4 @@
----@tag 42header.header
+---@tag codamheader.header
 
 ---@brief [[
 ---
@@ -7,8 +7,8 @@
 ---@brief ]]
 
 local M = {}
-local config = require "42header.config"
-local git = require "42header.utils.git"
+local config = require "codamheader.config"
+local git = require "codamheader.utils.git"
 
 ---Get username.
 ---@return string|nil

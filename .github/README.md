@@ -33,7 +33,7 @@ use {
   "f-ras/codam-header.nvim",
   cmd = { "Stdheader" },
   config = function()
-    require "42header"setup {
+    require "codamheader"setup {
       default_map = true, -- Default mapping <F1> in normal mode.
       auto_update = true, -- Update header when saving.
       user = "username", -- Your user.
@@ -62,7 +62,7 @@ use {
     -- add other options.
   },
   config = function(_, opts)
-    require("42header").setup(opts)
+    require("codamheader").setup(opts)
   end,
 }
 ```
