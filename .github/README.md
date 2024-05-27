@@ -1,6 +1,20 @@
-<h1 align="center">🛸 42 Header</h1>
+<h1 align="center">Codam Header for Neovim</h1>
 
-This plugin is whole re-write of [42header](https://github.com/42Paris/42header) in Lua.
+This extension provides the Codam header integration in Neovim. The original 42 re-write is found at [42-header.vim](https://github.com/Diogo-ss/42-header.nvim).
+
+```bash
+# ************************************************************************** #
+#                                                                            #
+#                                                        ::::::::            #
+#   neovim-codam-header                                :+:    :+:            #
+#                                                     +:+                    #
+#   By: fras <fras@student.codam.nl>                 +#+                     #
+#                                                    +#+                     #
+#   Created: 2024/05/20 16:33:33 by fras          #+#    #+#                 #
+#   Updated: 2024/05/26 00:33:49 by fras          ########   odam.nl         #
+#                                                                            #
+# ************************************************************************** #
+```
 
 ## ✨ Features
 
@@ -8,10 +22,6 @@ This plugin is whole re-write of [42header](https://github.com/42Paris/42header)
 - Auto update on save (optional)
 - Supports `commentstring`
 - Supports Git
-
-## 🚀 Showcase
-
-![header](https://raw.githubusercontent.com/Diogo-ss/42-header.nvim/7528c7ff25c51bf32301dfc1ece995128d2ae7d5/.github/header_img.png)
 
 ## 🎈 Setup
 
